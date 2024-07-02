@@ -4,7 +4,7 @@ This is a simple demo application demonstrating the Model-View-ViewModel (MVVM) 
 
 ## Video Explanation
 
-For a quick explanation of MVVM, you can watch the YouTube video [here]([https://youtu.be/a3d6t10IlDk](https://youtu.be/7S6pLsleypk)).
+For a quick explanation of MVVM, you can watch the YouTube video [here](https://youtu.be/hXFpGK1YVvc?si=Epp6RxkEW4XKuju6).
 
 ## Project Structure
 
