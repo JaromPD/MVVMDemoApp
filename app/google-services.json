@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51443273725",
+    "project_id": "spedapp-94fcf",
+    "storage_bucket": "spedapp-94fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51443273725:android:49bd660ce4b35b82f51394",
+        "android_client_info": {
+          "package_name": "com.example.mvvmspedtalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiapytU2_WTx3JRUsOIaIElECQhyjerV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

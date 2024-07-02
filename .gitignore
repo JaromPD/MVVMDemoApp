@@ -1,0 +1,41 @@
+# Firebase configuration files
+/google-services.json
+
+# Local configuration files
+local.properties
+
+# Miscellaneous
+.gradle
+/gradle
+/build
+/captures
+.externalNativeBuild
+.cxx
+/local.properties
+
+# Android Studio generated files and folders
+/.idea
+*.apk
+*.ap_
+/*.log
+/*.hprof
+*.orig
+*.pyc
+*.class
+*.hprof
+*.h
+*.db
+/.DS_Store
+
+# Intellij
+*.iws
+*.iml
+*.ipr
+
+# Idea
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
